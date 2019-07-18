@@ -1,0 +1,108 @@
+.main__heading {
+  position: relative;
+  width: 213px;
+  margin-top: 40px;
+  margin-left: 53;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 20px;
+  line-height: 49px;
+  color: #355075; }
+
+.main__orangeLine {
+  position: relative;
+  width: 96.3px;
+  height: 1.92px;
+  padding-top: -77px;
+  background: #FFB54E;
+  margin-left: 8.94px; }
+
+.main__backRectangle {
+  position: relative;
+  width: 304px;
+  margin-left: 8.94px;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  box-sizing: border-box;
+  box-shadow: 0px 4px 29px #D6E1E5; }
+
+.main__bgImage {
+  position: relative;
+  width: 286.06px;
+  height: 239.08px;
+  padding-left: 8.94px;
+  padding-top: 8.92px; }
+
+.main__logo {
+  position: relative;
+  width: 142px;
+  height: 71.74px;
+  margin-top: -215px;
+  padding-left: 91px; }
+
+.main__girlProfile {
+  position: relative;
+  width: 64px;
+  margin-left: 115px;
+  border: 3px solid white;
+  border-radius: 50%; }
+
+.main__button {
+  position: relative;
+  width: 52px;
+  height: 18px;
+  margin-left: 130px;
+  margin-top: 32; }
+
+.main__para1, .main__para2, .main__para3, .main__para4, .main__name {
+  position: relative;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  text-align: center;
+  color: #355075;
+  width: 256px;
+  margin-top: -27px;
+  margin-left: 32;
+  font-size: 18px;
+  line-height: 22px; }
+
+.main__para2 {
+  width: 259px;
+  margin-top: -130px;
+  font-size: 14px;
+  line-height: 154%;
+  margin-left: 0px;
+  color: #FFFFFF;
+  padding-left: 22px;
+  opacity: 0.87; }
+
+.main__para3 {
+  width: 139px;
+  height: 33px;
+  margin-left: 82;
+  font-size: 12px;
+  line-height: 16px;
+  margin-top: -15px;
+  opacity: 0.7; }
+
+.main__para4 {
+  width: 267px;
+  height: 341px;
+  margin-left: 18;
+  margin-top: 0px;
+  font-size: 16px;
+  line-height: 25px;
+  opacity: 0.87; }
+
+.main__name {
+  width: 108px;
+  height: 22px;
+  margin-left: 97;
+  font-size: 16px;
+  line-height: 21px;
+  margin-top: 0px;
+  font-weight: 900; }
+
+/*# sourceMappingURL=style.css.map */

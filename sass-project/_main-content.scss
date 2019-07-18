@@ -1,0 +1,43 @@
+.main__heading{   
+    position: $position-of-div;
+    width: 213px;
+    margin-top: 40px;
+    margin-left: 53;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 49px;
+    
+    
+    color: $text-color;
+    }
+
+
+
+    .main__orangeLine{
+        position: $position-of-div;
+        width: 96.3px;
+        height: 1.92px;
+        padding-top: -77px;    
+        background: #FFB54E;
+        margin-left: 8.94px;
+      }
+
+      
+          .main__backRectangle{
+             
+        position: $position-of-div;
+        width: 304px;
+        
+        margin-left: 8.94px;
+        
+        background: #FFFFFF;
+        border: 1px solid rgba(0, 0, 0, 0.05);
+        box-sizing: border-box;
+        box-shadow: 0px 4px 29px #D6E1E5;
+          }
+        
+          
+        
+        

@@ -1,0 +1,75 @@
+.main__para1 {
+    position: $position-of-div;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    color: $text-color; 
+
+    width: 256px;
+    margin-top: -27px;
+    margin-left: 32;
+    font-size: 18px;
+    line-height: 22px;
+
+}
+
+     
+    .main__para2 {
+       
+        width: 259px;
+        margin-top: -130px;
+        font-size: 14px;
+        line-height: 154%;
+        margin-left: 0px;
+
+       @extend .main__para1;  
+       color: #FFFFFF; 
+        padding-left: 22px;
+        opacity: 0.87;
+      }
+
+
+      .main__para3 {
+              
+        width: 139px;
+        height: 33px;
+        margin-left: 82;
+        font-size: 12px;
+        line-height: 16px;
+        margin-top: -15px;
+
+        @extend .main__para1; 
+        opacity: 0.7;
+          }
+        
+
+           
+        
+          .main__para4 {
+            
+            width: 267px;
+            height: 341px;
+            margin-left: 18;
+            margin-top: 0px;
+            font-size: 16px;
+            line-height: 25px;
+
+            @extend .main__para1;           
+            opacity: 0.87;
+        
+          }
+
+          .main__name{
+           
+            width: 108px;
+            height: 22px;
+            margin-left: 97;
+            font-size: 16px;
+            line-height: 21px;
+            margin-top: 0px;
+            font-weight: 900;
+
+            @extend .main__para1;    
+          }
+        

@@ -1,0 +1,35 @@
+.main__bgImage{
+      
+    position: $position-of-div;
+    width: 286.06px;
+    height: 239.08px;
+    padding-left: 8.94px;
+    padding-top: 8.92px;
+      }
+    
+      .main__logo{
+        position: $position-of-div;
+        width: 142px;
+        height: 71.74px;
+        margin-top: -215px;
+        padding-left: 91px;
+      }
+    
+      .main__girlProfile{
+        position: $position-of-div;
+        width: 64px;
+      
+        margin-left: 115px;
+        border: 3px solid white;
+       border-radius: 50%;
+      
+    }
+
+    
+    .main__button{
+        position: $position-of-div;
+        width: 52px;
+        height: 18px;
+        margin-left: 130px;
+        margin-top: 32;
+      }
